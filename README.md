@@ -1,5 +1,5 @@
 # 💫 About Me:  
-Hi there! I'm Sahil Gupta, a full-stack developer passionate about building real-world projects and exploring domains like Web3, web development, and design.  
+Hi there! I'm Sahil Gupta, a full-stack developer passionate about building real-world projects and exploring Web3, Web development, and Design.  
 
 🌱 Currently learning and building with the MERN Stack, always evolving through hands-on experience. Passionate about turning ideas into impactful projects and collaborating on innovative solutions.  
 
